@@ -1,4 +1,4 @@
-# KelsonCraft-NeoForge 1.21.1
+# KelsonCraft Pack 1.21.1
 KelsonCraft NeoForge Modpack 1.21.1, mostly for issue tracking.
 
 This is the custom modpack using NeoForge that I have mostly adapted from my old one on Tekkit [KelsonCraft 1.20 Forge Pack](https://www.technicpack.net/modpack/kelsoncraft-120-forge-pack.1989222).
