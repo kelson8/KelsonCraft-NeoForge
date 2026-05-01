@@ -3,11 +3,20 @@ KelsonCraft NeoForge Modpack 1.21.1, mostly for issue tracking.
 
 This is the custom modpack using NeoForge that I have mostly adapted from my old one on Tekkit [KelsonCraft 1.20 Forge Pack](https://www.technicpack.net/modpack/kelsoncraft-120-forge-pack.1989222).
 
-There is a lot of mods that I enjoy in this pack, I have not yet published it but when I do, it'll be on Modrinth.
+There is a lot of mods that I enjoy in this pack, I have not yet published it but when I do, it'll be on CurseForge.
 
 I am still making changes to this mod pack, I'll release it with an alpha version for now, I may add new mods or remove them so this mod list isn't final yet.
 
 This is going to be the KelsonCraft mod pack for 1.21.1 on NeoForge, which has a lot of power mods, tech mods and stuff like that.
+
+# Mod pack Download
+
+For now, the pack download is on my website until I can figure out switching this over to CurseForge.
+I will try to keep this pack download up to date, and eventually I may switch to a system that doesn't require me
+to distrubute the JAR files and just use something like [PackWiz](https://packwiz.infra.link/) that can work well with Prism Launcher.
+
+You can download it from my website here:
+* https://kelsoncraft.net/download/New/Minecraft/KelsonCraft-Pack/1.21.1/KelsonCraft%20Pack%200.1.0.zip
 
 # Mod pack Info
 
