@@ -41,7 +41,7 @@ The storage mods in this pack are [Functional Storage](https://www.curseforge.co
 
 Attack cool downs are pretty much disabled in this pack.
 
-I have a script that disables farmland crop trampling, so you cannot step on farmland to break it or other mobs cannoit.
+I have a script that disables farmland crop trampling, so you cannot step on farmland to break it or other mobs cannot.
 
 ### Mod list
 I have a wiki on this GitHub repo that displays the full mod list for my modpack and links to the original mods.
