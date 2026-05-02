@@ -16,7 +16,7 @@ I will try to keep this pack download up to date, and eventually I may switch to
 to distrubute the JAR files and just use something like [PackWiz](https://packwiz.infra.link/) that can work well with Prism Launcher.
 
 You can download it from my website here:
-* https://kelsoncraft.net/download/New/Minecraft/KelsonCraft-Pack/1.21.1/KelsonCraft%20Pack%200.1.0.zip
+* kelsoncraft.net/download/New/Minecraft/KelsonCraft-Pack/1.21.1/KelsonCraft-Pack-0.2.0.zip
 
 # Mod pack Info
 
