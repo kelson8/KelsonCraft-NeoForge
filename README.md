@@ -9,6 +9,9 @@ I am still making changes to this mod pack, I'll release it with an alpha versio
 
 This is going to be the KelsonCraft mod pack for 1.21.1 on NeoForge, which has a lot of power mods, tech mods and stuff like that.
 
+Current mod pack version:
+* 0.2.1
+
 # Mod pack Download
 
 For now, the pack download is on my website until I can figure out switching this over to CurseForge.
@@ -16,7 +19,7 @@ I will try to keep this pack download up to date, and eventually I may switch to
 to distrubute the JAR files and just use something like [PackWiz](https://packwiz.infra.link/) that can work well with Prism Launcher.
 
 You can download it from my website here:
-* https://kelsoncraft.net/download/New/Minecraft/KelsonCraft-Pack/1.21.1/KelsonCraft-Pack-0.2.0.zip
+* https://kelsoncraft.net/download/New/Minecraft/KelsonCraft-Pack/1.21.1/KelsonCraft-Pack-0.2.1.zip
 
 # Mod pack Info
 
