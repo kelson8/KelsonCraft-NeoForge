@@ -86,4 +86,21 @@
    
    * Disabled vertical trees for the Panda's Falling Trees mod, and also disabled it on cactus and bamboo.
 
+# 0.2.2
+  * Disabled the snow fall in winter time with the seasons mod, so snow isn't always in the normal biomes.
+	
+  * Removed the Inventory Profiles Next config folder since it contains user specific world stuff.
+   
+   Modified some configs in Advanced Peripherals
+   * Disable player detector for spectator players.
+   * Make chat box not able to execute commands.
+	
+   * Added the Create Power loader mod for using Create chunk loaders.
+	
+   * Changed the Window Title with the KubeJS client.json config to `KelsonCraft Pack`.
+   
+ 
+   * Added the powah.js script to `kubejs/server_scripts/Tweaks`, It allows me to use the blasting recipes and have the Create attribute filter work for stuff like Uraninite, I may rename this file later.
+ 
+
 -------
