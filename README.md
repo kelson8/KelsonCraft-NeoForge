@@ -55,13 +55,12 @@ Attack cool downs are pretty much disabled in this pack.
 
 I have a script that disables farmland crop trampling, so you cannot step on farmland to break it or other mobs cannot.
 
-### Mod list
+# Mod list
 I have a wiki on this GitHub repo that displays the full mod list for my modpack and links to the original mods.
 * https://github.com/kelson8/KelsonCraft-NeoForge/wiki
 
 Also, I try to keep it up to date on my website wiki
 * https://wiki.kelsoncraft.net/en/minecraft/modpacks/new_neoforge_121_pack
-
  
 # Notable mods in this pack
 * AE2 - Applied Energistics 2
