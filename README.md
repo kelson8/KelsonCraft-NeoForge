@@ -10,7 +10,7 @@ I am still making changes to this mod pack, I'll release it with an alpha versio
 This is going to be the KelsonCraft mod pack for 1.21.1 on NeoForge, which has a lot of power mods, tech mods and stuff like that.
 
 Current mod pack version:
-* 0.2.2
+* 0.3.0
 
 # Mod pack Download
 
@@ -19,7 +19,7 @@ I will try to keep this pack download up to date, and eventually I may switch to
 to distrubute the JAR files and just use something like [PackWiz](https://packwiz.infra.link/) that can work well with Prism Launcher.
 
 You can download it from my website here:
-* https://kelsoncraft.net/download/New/Minecraft/KelsonCraft-Pack/1.21.1/KelsonCraft-Pack-0.2.2.zip
+* https://kelsoncraft.net/download/New/Minecraft/KelsonCraft-Pack/1.21.1/KelsonCraft-Pack-0.3.0.zip
 
 # Mod pack Info
 
@@ -63,18 +63,20 @@ Also, I try to keep it up to date on my website wiki
 * https://wiki.kelsoncraft.net/en/minecraft/modpacks/new_neoforge_121_pack
  
 # Notable mods in this pack
+* Advanced Backups - This can take up to 10gb of space for backups, I have modified the config to only take 10GB instead of trying to use 50GB.
 * AE2 - Applied Energistics 2
 * Cooking for Blockheads
 * Create and a bunch of addons for it.
 * CC Tweaked - Computer Craft mod
+* Delete Worlds to Trash - This makes it to where if you delete a world, it goes to your recycle bin on Windows.
 * Farmer's Delight
 * Farming for Blockheads
+* Functional Storage
 * Easy Villagers - Shift and left click to pick up villagers, and make iron farms, and other farms with them.
 * e4mc - Open LAN game to public with a link.
 * Iron Furnaces - Faster furnaces, can also be powered by Forge Energy.
 * Jade - Display what a block is on screen.
 * JEI - Item and recipe viewing mod
-* Metal Barrels - additional tiers for barrels.
 * Mob Catcher - Catch mobs and bring them back easily
 * Mob Grinding Utils - Mob farming utilities
 * Pipez - Adds energy pipes, item pipe, gas pipe, and universal pipes.
@@ -82,8 +84,9 @@ Also, I try to keep it up to date on my website wiki
 * Ping Wheel - Ping a spot in game with the extra mouse buttons or a specified keybind.
 * Refined Storage - Storage management mod which uses Forge Energy.
 * SecurityCraft - Security locked doors, security cameras and more.
+* Sophisticated Storage
 * Sign Copy - Copy and paste texts onto signs.
-* Simple Voice Chat - Voice chat in-game
+* Simple Voice Chat - Voice chat in-game, not currenty in the pack.
 * Trash Cans - Add trash can items for piping into.
 * WorldEdit - This is only enabled in creative.
 

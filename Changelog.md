@@ -101,6 +101,57 @@
    
  
    * Added the powah.js script to `kubejs/server_scripts/Tweaks`, It allows me to use the blasting recipes and have the Create attribute filter work for stuff like Uraninite, I may rename this file later.
+
+---
+
+# 0.3.0  
+  Mod Changes:
+   * Removed the True Darkness mod since I'm not really using it.
+   * Added enderio script for Kubejs to make the dark steel work for steel ingots.
+   * Added the logs-to-chest.js Kubejs script into server scripts, it allows me to convert 8 logs of any type into chests.
+   
+  Added the gamemode-commands.js Kubejs script into server scripts, it adds these command aliases for gamemodes:
+  * /gmc /gm1 - Go into creative
+  * /gm0 /gms - Go into survival
+  * /gma - Go into adventure
+  * /gmsp - Go into spectator
+
+  ==
+  
+  * Changed the Refined Storage controller energy capacity from 1000 to 50000, it didn't have enough power for the infinity booster card.
+   
+  * Fixed some KubeJS errors.
+  * Changed Advanced Backups max backup size from 50GB to 10GB to save on space, this can be configured to your needs.
+  * Fix crashing when trying to create a world.
+   
+   Mods added:
+   * AE2 JEI Integration - This is for JEI to display AE2 recipes.
+   * Apothic Spawners - This can be used to add different traits to mob spawners and modify them.
+   * Create Slice and Dice - For automating Farmer's delight recipes with Create.
+   * Creeper Overhaul - Adds more creepers.
+   * Cucumber library
+   * Ender Storage - Like ender chests but can have channels
+   * Ender Tanks - This is for transporting lava from the nether easily and other fluids if needed.
+   * Extra Storage - This is for Refined Storage.
+   * Flux Networks - Allows for wireless power transfer for Forge Energy and other methods of power.
+   * Hostile Neural Networks - For making mob farms
+   * Just Enough Resources - This is for JEI to display the chances of mob drops and other items.
+   * Modular Routers - Mostly for mob farms
+   * Mystical Agriculture
+   * Mystical Agradditions
+   * Mystical Customization
+   * Not Enough Wands - Makes building and somethings easier with wands.
+   * Pylons - This is mostly for auto harvesting crops with Mystical Agriculture.
+   * Reliquary Reincarnations - This is for automating Inferium growing from Mystical Agriculture.
+   * RFTools Base - Base for all RFTools
+   * RFTools Dimensions - Multiple dimensions by being powered
+   * RFTools Utility - Utility functions for RF Tools
+
+   Mods removed:
+   * Iron Ladders - I have the faster ladder climbing mod so these might be a bit too overpowered.
+   * Metal Barrels - I mostly just use Sophisticated Storage or Functional Storage instead of these.
+   * Simple Belts - This is already done with Create.
+   * True Darkness - I was never using this in the mod pack.
  
 
 -------
