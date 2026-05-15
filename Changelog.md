@@ -105,8 +105,6 @@
  
 ---
 
-Updated with changes from 5-7-2026 at 12:05PM to 5-11-2026 at 1:06PM in local Changelog.txt
-
 # 0.3.0  
   Mod Changes:
    * Removed the True Darkness mod since I'm not really using it.
