@@ -101,8 +101,11 @@
    
  
    * Added the powah.js script to `kubejs/server_scripts/Tweaks`, It allows me to use the blasting recipes and have the Create attribute filter work for stuff like Uraninite, I may rename this file later.
-
+ 
+ 
 ---
+
+Updated with changes from 5-7-2026 at 12:05PM to 5-11-2026 at 1:06PM in local Changelog.txt
 
 # 0.3.0  
   Mod Changes:
@@ -115,14 +118,11 @@
   * /gm0 /gms - Go into survival
   * /gma - Go into adventure
   * /gmsp - Go into spectator
-
-  ==
   
   * Changed the Refined Storage controller energy capacity from 1000 to 50000, it didn't have enough power for the infinity booster card.
    
   * Fixed some KubeJS errors.
   * Changed Advanced Backups max backup size from 50GB to 10GB to save on space, this can be configured to your needs.
-  * Fix crashing when trying to create a world.
    
    Mods added:
    * AE2 JEI Integration - This is for JEI to display AE2 recipes.
@@ -152,6 +152,41 @@
    * Metal Barrels - I mostly just use Sophisticated Storage or Functional Storage instead of these.
    * Simple Belts - This is already done with Create.
    * True Darkness - I was never using this in the mod pack.
+
+# 0.3.1
+
+   Mod Changes:
+   * Raised wireless grid, portable grid, and wireless autocrafting monitor from 1000 energy stored to 50,000 energy stored.
+   * Disable energy usage for opening the portable grid and wireless autocrafting monitor.
+   * Updated Sophisticated Core, Sophisticated Storage and Sophisticated Backpacks to latest version.
+   * Changed rs infinity booster cards, set infinity card to need 300 energy, and dimension card to need 500 energy.
+   * Disable phantoms spawning with the Bad Mobs config.
+   * Updated Xaero's Minimap and Xaero's World Map to the latest version.
  
+   Mods Added:
+* AdvancedAE
+* AE2 Import Export Card
+* AE2 Network Analyser
+* AE2 Crafting Tree
+* AE Infinity Booster - Add infinity boost range for AE2.
+* Applied Mekanistics - Adds support for Mekanism to AE2
+* Applied Flux - This allows me to store energy generated from my power systems into an AE2 system.
+* Bad Mobs - This allows me to disable spawning of certain mobs, for now I'll disable the phantoms.
+* Bad Wither No Cookie Reloaded - Make wither spawn, dragon spawn, and thunder sounds local to the player, so only one person will hear those. 
+* Better P2P - P2P management tool for AE2.
+* Cable Facades - Add cable facades for hiding items and making builds look nicer.
+* Chisel - I thought this mod was already on here, for more chisel items.
+* Colorful hearts - Makes more then 10 hearts change colors instead of stacking up on the screen.
+* Expanded AE
+* ExtendedAE - For easier AE2 automation.
+* Factory Blocks - Adds new blocks for factories.
+* Fast Suite - Performance improvements for the JSON recipe system.
+* FTB JEI Extras
+* Glodium - Library required for Applied Flux.
+* Iron Jetpacks - Re-enabled this mod to use in the mod pack for jetpacks.
+* Rechiseled Chipped
+* Rechiseled Create
+* Sophisticated Storage Create integration
+* Wither Skeleton Tweaks - Make all skeletons in the nether wither skeletons.   
 
 -------
